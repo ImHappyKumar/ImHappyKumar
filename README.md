@@ -17,9 +17,11 @@
 
 Let's connect and learn together! You can find me on:
 
-- [Twitter](https://twitter.com/ImHappyKumar)
+- [Facebook](https://facebook.com/ImHappyKumar/)
+- [Instagram](https://instagram.com/happykumarofficial/)
+- [Twitter](https://twitter.com/ImHappyKumar/)
 - [LinkedIn](https://www.linkedin.com/in/ImHappyKumar/)
-- [Personal Website](https://happykumar.tk)
+- [Personal Website](https://happykumar.tk/)
 
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat! 😄
 
