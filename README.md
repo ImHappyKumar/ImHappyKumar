@@ -24,7 +24,7 @@ Let's connect and learn together! You can find me on:
   <a href="https://t.me/ImHappyKumar"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/telegram.svg" width="25px"></a> &ensp;
   <a href="https://www.linkedin.com/in/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" width="28px"></a>
 </div>
-
+<br>
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat! 😄
 
 ## Exploring My Projects
