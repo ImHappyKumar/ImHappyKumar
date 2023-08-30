@@ -17,11 +17,13 @@
 
 Let's connect and learn together! You can find me on:
 
-- [Facebook](https://facebook.com/ImHappyKumar/)
-- [Instagram](https://instagram.com/happykumarofficial/)
-- [Twitter](https://twitter.com/ImHappyKumar/)
-- [LinkedIn](https://www.linkedin.com/in/ImHappyKumar/)
-- [Personal Website](https://happykumar.tk/)
+<div>
+  <a href="https://facebook.com/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/facebook.svg" width="25px"></a> &ensp;
+  <a href="https://instagram.com/happykumarofficial/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/instagram.svg" width="25px"></a> &ensp;
+  <a href="https://twitter.com/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter.svg" width="28px"></a> &ensp;
+  <a href="https://t.me/ImHappyKumar"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/telegram.svg" width="25px"></a> &ensp;
+  <a href="https://www.linkedin.com/in/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" width="28px"></a>
+</div>
 
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat! 😄
 
