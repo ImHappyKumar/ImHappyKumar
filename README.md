@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hello, I'm Happy Kumar, a passionate web developer with a keen interest in creating captivating online experiences. I'm on a journey to master web technologies and turn innovative ideas into reality.
+👋 Hello, I'm Happy Kumar, a passionate web developer with a keen interest in building engaging online experiences. I'm on a journey to master web technologies and turn innovative ideas into reality.
 
 - 🔭 Currently focusing on refining my web development skills and exploring new frameworks.
 - 🌱 Learning something new every day in the vast world of web technologies.
