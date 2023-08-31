@@ -23,13 +23,17 @@ Let's connect and learn together! You can find me on:
   <a href="https://twitter.com/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter.svg" width="28px"></a> &ensp;
   <a href="https://t.me/ImHappyKumar"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/telegram.svg" width="25px"></a> &ensp;
   <a href="https://www.linkedin.com/in/ImHappyKumar/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" width="28px"></a>
+  <a href="https://www.linkedin.com/in/ImHappyKumar/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" style="color: blue;" width="28px"></a>
 </div>
 <br>
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat! 😄
 
 ## Exploring My Projects
 
-Dive into my GitHub repositories to explore a collection of web development projects that I've been working on. From simple experiments to more complex web applications, there's a bit of everything.
+Dive into my GitHub repositories or visit my website to explore a collection of web development projects that I've been diligently working on. Ranging from simple experiments to more complex web applications, there's a bit of everything for you to discover.
+
+[Browse GitHub Repository](https://github.com/ImHappyKumar?tab=repositories/) &emsp;
+[Check Out Website](https://happykumar.in/)
 
 ## Who's Visiting?
 
