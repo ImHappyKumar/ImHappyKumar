@@ -1,6 +1,6 @@
 # Hello, I'm Happy Kumar! 🌟
 
-<img src="https://avatars.githubusercontent.com/u/85684143?v=4" alt="Profile Avatar" width="150">
+<img src="https://avatars.githubusercontent.com/u/85684143?v=4" alt="Profile Avatar" width="200">
 
 ## About Me
 
@@ -32,8 +32,37 @@ Feel free to reach out if you want to collaborate, discuss tech, or just have a 
 Dive into my GitHub repositories or visit my website to explore a collection of web development projects that I've been diligently working on. Ranging from simple experiments to more complex web applications, there's a bit of everything for you to discover.
 
 [Browse GitHub Repositories](https://github.com/ImHappyKumar?tab=repositories) <br>
-
 [Check Out Website](https://happykumar.in/)
+
+## GitHub Profile Insights
+
+<!-- Happy Kumar's Most Used Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ImHappyKumar&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ImHappyKumar&layout=compact&theme=light">
+  <img alt="Happy Kumar's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImHappyKumar&layout=compact">
+</picture> <br>
+
+<!-- Happy Kumar's GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ImHappyKumar&theme=dark&show_icons=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ImHappyKumar&theme=default&show_icons=true">
+  <img alt="Happy Kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ImHappyKumar&theme=default&show_icons=true">
+</picture> <br>
+
+<!-- Happy Kumar's GitHub Contributor Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=ImHappyKumar&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=ImHappyKumar&limit=5&theme=flat&combine_all_yearly_contributions=true">
+  <img alt="Happy Kumar's GitHub Streak Stats" src="https://github-contributor-stats.vercel.app/api?username=ImHappyKumar&limit=5&theme=flat&combine_all_yearly_contributions=true">
+</picture> <br>
+
+<!-- Happy Kumar's GitHub Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ImHappyKumar&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ImHappyKumar&theme=default">
+  <img alt="Happy Kumar's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ImHappyKumar&theme=default">
+</picture>
 
 ## Who's Visiting?
 
