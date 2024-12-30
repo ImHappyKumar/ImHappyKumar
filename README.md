@@ -1,6 +1,6 @@
 # Hello, I'm Happy Kumar! 🌟
 
-<img src="https://avatars.githubusercontent.com/u/85684143?v=4" alt="Profile Avatar" width="200">
+<img src="https://avatars.githubusercontent.com/u/85684143?v=4" alt="Profile Avatar" width="150">
 
 ## About Me
 
