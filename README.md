@@ -9,7 +9,7 @@
 - 🔭 Currently focusing on refining my web development skills and exploring new frameworks.
 - 🌱 Learning something new every day in the vast world of web technologies.
 - 💬 Feel free to ask me about web development, coding, or technology trends.
-- 📫 Reach me at [hkh7262@gmail.com](mailto:hkh7262@gmail.com).
+- 📫 Reach me at [happykumar.info@gmail.com](mailto:happykumar.info@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new coding techniques.
 
