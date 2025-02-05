@@ -32,7 +32,7 @@ Feel free to reach out if you want to collaborate, discuss tech, or just have a 
 Dive into my GitHub repositories or visit my website to explore a collection of web development projects that I've been diligently working on. Ranging from simple experiments to more complex web applications, there's a bit of everything for you to discover.
 
 [Browse GitHub Repositories](https://github.com/ImHappyKumar?tab=repositories) <br>
-[Check Out Website](https://happykumar.in/)
+[Check Out Website](https://happykumar.com/)
 
 ## GitHub Profile Insights
 
